@@ -1,0 +1,12 @@
+C:\Users\quint\Documents\GitHub\Rust-Freecodecamp\combiner\target\debug\deps\half-d17e24f20babc2be.rmeta: C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs
+
+C:\Users\quint\Documents\GitHub\Rust-Freecodecamp\combiner\target\debug\deps\libhalf-d17e24f20babc2be.rlib: C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs
+
+C:\Users\quint\Documents\GitHub\Rust-Freecodecamp\combiner\target\debug\deps\half-d17e24f20babc2be.d: C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs
+
+C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\lib.rs:
+C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat.rs:
+C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\bfloat\convert.rs:
+C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16.rs:
+C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\binary16\convert.rs:
+C:\Users\quint\.cargo\registry\src\github.com-1ecc6299db9ec823\half-1.8.2\src\slice.rs:
