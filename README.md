@@ -1,2 +1,2 @@
 # Rust-Freecodecamp
-https://www.youtube.com/watch?v=MsocPEZBd-M
+[Freecodecamp Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M)
